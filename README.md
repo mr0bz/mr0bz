@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MSRobert96
-- 👀 I’m interested in everything related to Computer Science and Technology
-- 🌱 I’m currently studying Computer Science at Ca' FOscari University of Venice
-- 📫 How to reach me: _REDACTED_
+- 👋 Hi, I’m Roberto!
+- 💻 I'm currently working for [PAT Group](https://pat.eu/en) as a Senior Product Specialist e IT Connsultant
+- 👀 I’m interested Computer Science, Technology and Videogames
+- 🌱 I’m also currently studying Computer Science at [Ca' Foscari University of Venice](https://www.unive.it/english)
+- 📫 You can reach me at contact\[at\]robertomilan\[dot\]me or through my [LinkedIn profile](https://www.linkedin.com/in/roberto-milan/)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
 MSRobert96/MSRobert96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
