@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roberto!
-- 💻 I'm currently working for [PAT Group](https://pat.eu/en) as a Senior Product Specialist e IT Connsultant
+- 💻 I'm currently working for [PAT Group](https://pat.eu/en) as a Senior Product Specialist e IT Consultant
 - 👀 I’m interested Computer Science, Technology and Videogames
 - 🌱 I’m also currently studying Computer Science at [Ca' Foscari University of Venice](https://www.unive.it/english)
 - 📫 You can reach me at contact\[at\]robertomilan\[dot\]me or through my [LinkedIn profile](https://www.linkedin.com/in/roberto-milan/)
