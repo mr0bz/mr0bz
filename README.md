@@ -39,7 +39,7 @@ I'm a passionate Cloud & Data Engineer with a keen interest in technology, compu
 
 ## 📫 How to reach me
 
-- Email: [contact\[at\]robertomilan\[dot\]me](mailto:contact@robertomilan.me)
+- Email: contact\[at\]robertomilan\[dot\]me
 - LinkedIn: [roberto-milan](https://www.linkedin.com/in/roberto-milan/)
 - Portfolio: _TBD_
 
