@@ -24,16 +24,15 @@ I'm a passionate Cloud & Data Engineer with a keen interest in technology, compu
 
 ## 🚀 Projects
 
+- [**rti-on-the-go**](https://github.com/mr0bz/rti-on-the-go)  
+  A mobile-ready Reflectance Transformation Imaging (RTI) solution that enables capturing and processing RTI with ordinary smartphones. Developed in Python for academic research.
+
 - [**Sudoku-Solver**](https://github.com/mr0bz/Sudoku-Solver)  
   An efficient Sudoku puzzle solver built with Python, leveraging constraint propagation and backtracking algorithms. Created as part of a university coursework.  
   _Status: Archived_
 
 - [**unive-assignment-template**](https://github.com/mr0bz/unive-assignment-template)  
   A clean and minimal LaTeX template designed for short assignments at Ca' Foscari University of Venice. Includes essential formatting for quick academic submissions.
-
-- **rti-on-the-go**  
-  A mobile-ready Reflectance Transformation Imaging (RTI) solution that enables capturing and processing RTI with ordinary smartphones. Developed in Python for academic research.  
-  _Status: Private (will be made public after course completion)_
 
 ---
 
